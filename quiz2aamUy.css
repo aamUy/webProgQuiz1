@@ -1,0 +1,35 @@
+body{
+    background-color: chartreuse;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: cursive;
+    text-align: center;
+}
+
+h1{
+    position: sticky;
+    top: 0;
+    background-color: gold;
+    border: black;
+    border-radius: 8pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    background: rgba(141, 37, 37, 0.7);
+    color: wheat;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    border-radius: 20pt;
+}
+
+.suspense{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.suspense1{
+    font-family: monospace;
+    font-style: oblique;
+}
